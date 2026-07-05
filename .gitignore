@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+.idea/
+.vscode/
+review_dashboard.html
